@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6993053-52fb-48bc-932f-27757925cb98" name="Changes" comment="innit commit">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork1/HomeWork1.java" afterDir="false" />
+    <list default="true" id="f6993053-52fb-48bc-932f-27757925cb98" name="Changes" comment="ds">
+      <change beforePath="$PROJECT_DIR$/src/EchoTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EchoTestDrive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661188836401</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ds">
+      <created>1661190686493</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661190686493</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit1" />
     <MESSAGE value="innit commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="innit commit" />
+    <MESSAGE value="ds" />
+    <option name="LAST_COMMIT_MESSAGE" value="ds" />
   </component>
 </project>
